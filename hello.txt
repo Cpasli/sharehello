@@ -1,5 +1,6 @@
 how are you?
 i fine,thank you 
 and you?
+<<<<<<< HEAD
 
 what's your name?
